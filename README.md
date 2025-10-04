@@ -386,5 +386,4 @@ For questions or suggestions, please open an issue or contact the development te
 ---
 
 **Happy Coding! 🚀**
-#   C a t e g o r i e s - C l e a n - A r c h  
- 
+#
